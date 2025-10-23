@@ -18,6 +18,6 @@ The main goal is to introduce agarwood to a wider audience — from local buyers
 ## 🧰 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend (optional if included):** Go / Node.js  
+- **Backend** PHP
 - **Tools:** Git, GitHub, VS Code  
 - **Hosting:** GitHub Pages  
